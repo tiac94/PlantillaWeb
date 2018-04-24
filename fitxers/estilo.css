@@ -1,0 +1,570 @@
+.admin_cabeceras
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#000;
+	text-align:justify;
+	text-decoration:none;
+	text-align:center;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:5px;
+
+}
+p#enviadoexito{
+	color: limegreen;
+}
+.fila{
+	vertical-align: top;
+	height: 40px;
+}
+.filaarea{
+	vertical-align: top;
+}
+label{
+	
+	font-size: 15px;
+}
+input[type="text"], input[type="email"]{
+	
+	width: 400px;
+	background: #f2f2f2;
+	border: 1px solid #cdcdcd;
+	height: 20px;
+}
+input[name="userid"], input[name*="password"]{
+	width: 250px;
+	background: #f2f2f2;
+	border: 1px solid #cdcdcd;
+	height: 20px;
+}
+textarea{
+	width: 400px;
+	height: 200px;
+	background: #f2f2f2;
+	border: 1px solid #cdcdcd;
+	font-size:15px;
+}
+button#enviar{
+font-family: 'Raleway','Helvetica Neue',Arial,sans-serif;
+font-weight: 700;
+color: #fff;
+font-weight: 400;
+font-size: 14px;
+border: solid 1px #b9001f;
+text-transform: none;
+margin-top: 20px;
+/*margin-right: 65px;*/
+padding: 12px 30px;
+background-color: #ba0000;
+text-transform: uppercase;
+letter-spacing: 2px;
+outline: none;
+cursor: pointer;
+}
+button#borrar{
+font-family: 'Raleway','Helvetica Neue',Arial,sans-serif;
+font-weight: 700;
+color: #fff;
+font-weight: 400;
+font-size: 14px;
+border: solid 1px #b9001f;
+text-transform: none;
+/*margin-right: 65px;*/
+/*padding: 12px 30px;*/
+background-color: #ba0000;
+text-transform: uppercase;
+letter-spacing: 2px;
+outline: none;
+cursor: pointer;
+}
+.admin_menu
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	text-alitgn:justify;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+
+}
+.admin_texto
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#5a5664;
+	text-align:justify;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+
+}
+.admin_texto1
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-align:justify;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+
+}
+.admin_texto2
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#323230;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	padding:0px;
+	margin:0px;
+}
+.admin_texto3
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#323230;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	padding:0px;
+	margin:0px;
+	width:900px;
+}
+.admin_titulo
+{
+	font-family:Tahoma,Verdana, Arial, Helvetica, sans-serif;
+	font-size:20px;
+	color:#5a5664;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:bold;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:15px;
+	padding-top:15px;
+}
+
+.calendario
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#5a5a5a;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.calendario1
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.descripcion
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#323230;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.familias
+{	
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:17px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.familias_home
+{	
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:17px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+h1
+{	
+	margin:0px;
+	padding:0px;
+}
+h2
+{	
+	margin:0px;
+	padding:0px;
+}
+h3
+{
+	margin:0px;
+	padding:0px;
+}
+h4
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#696969;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+h5
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	color:#5a5a5a;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+h6
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	color:#5a5a5a;
+	text-decoration:none;
+	text-align:justify;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+}
+.mceContentBody {
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#686765;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:5px
+}
+.menu
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+a.menu:hover{
+color:#000;	
+}
+.menu1
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.menu2
+{
+	padding-left:10px;
+	padding-right:10px;
+	background-image:url(../Images/f_menu.jpg);
+	background-repeat:repeat-x;	
+}
+.pie
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#696969;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:6px
+}
+.pie_caja
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.pie_menu
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:10px;
+}
+.referencia
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:10px;
+	color:#323230;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.submenu
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#696969;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;	
+}
+a.submenu:hover{
+color:#004189;
+text-decoration:underline;
+}
+.submenu2
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;	
+}
+a.submenu2:hover{
+color:#004189;
+text-decoration:underline;
+}
+.texto
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#5e6268;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+	line-height:13px;
+}
+
+.texto0
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:#fff;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+	vertical-align:middle;
+}
+.texto1
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#323230;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.texto2
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#c20020;
+	text-align:center;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.texto3
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#fff;
+	text-align:right;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+	padding-right:5px;
+}
+.texto4
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#323230;
+	text-align:right;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:0px;
+}
+.texto_caja
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#686765;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:normal;
+	margin:0px;
+	padding:5px;
+	vertical-align:middle;
+}
+.titulo
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#5e6268;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+}
+.titulo2
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:12px;
+	color:#ba0000;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+}
+.titulo_pagina
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:50px;
+	color:#696969;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+}
+.titulo_detalle
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:20px;
+	color:#2d6cb3;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	vertical-align:bottom
+	margin:0px;
+	padding:0px;
+}
+.titulo_detalle1
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	color:#2d6cb3;
+	text-align:left;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	vertical-align:bottom
+	margin:0px;
+	padding:0px;
+}
+.titulo_detalle2
+{
+	font-family:Arial, Tahoma, Geneva, sans-serif;
+	font-size:20px;
+	color:#fff;
+	text-align:justify;
+	text-decoration:none;
+	font-style:normal;
+	font-weight:bold;
+	margin:0px;
+	padding:0px;
+	vertical-align:top;
+}
+#slider {    width: 905px;  height: 240px;    position: relative;	overflow: hidden; }
+#sliderContent {    width: 905px;   position: absolute;	top: 0;	left:0; margin:0px; padding:0px;}
+.sliderImage {    float: left;    position: relative;	display: none; }
+.sliderImage span {    position: absolute; font-weight:bold; font: 14px/16px Arial, Helvetica, sans-serif; text-align:left;  padding: 10px 10px 10px 10px;    width: 905px;    background-color: #fff;    filter: alpha(opacity=60);    -moz-opacity: 0.6;	-khtml-opacity: 0.6;    opacity: 0.6;    color: #000;    display: none;}
+.clear {clear: both;}
+.sliderImage span strong {    font-size: 12px; text-align:left;}
+.top {	top: 0;	left: 0;}
+.bottom {	bottom: 0;   left: 0;}
+ul { list-style-type: none;}
